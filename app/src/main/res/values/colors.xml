@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#33e556</color> <!-- Your green color -->
+    <color name="red">#f54040</color>   <!-- Your red color -->
+    <color name="colorSalary">#53e264</color>
+    <color name="colorShopping">#65c2ff</color>
+    <color name="colorSavings">#FFC300</color>
+    <color name="colorFood">#FF5722</color>
+    <color name="colorCar">#9c63d8</color>
+    <color name="colorEntertainment">#d68a8e</color>
+    <color name="colorOthers">#9b9b9b</color>
+    <color name="colorUtilities">#ff525d</color>
+    <color name="colorBonus">#2ed3ff</color>
+    <color name="colorPrimary">#000000</color> <!-- A shade of blue -->
+    <color name="colorPrimaryDark">#1976D2</color> <!-- Darker blue -->
+    <color name="colorAccent">#000000</color> <!-- Lighter blue for accent elements -->
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135590236762",
+    "project_id": "plswork-203d4",
+    "storage_bucket": "plswork-203d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135590236762:android:301277ed6d7a9480843e63",
+        "android_client_info": {
+          "package_name": "com.example.plswork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcv1p0-JiT0nZpfUNBwJoYFlGAtmCUzTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

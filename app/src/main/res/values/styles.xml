@@ -1,0 +1,15 @@
+<resources>
+    <style name="PopupAnimation">
+        <item name="android:windowEnterAnimation">@anim/slidein</item>
+        <item name="android:windowExitAnimation">@anim/slideout</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="CustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">18sp</item> <!-- Set your desired text size -->
+        <item name="android:textColor">@android:color/black</item> <!-- Set your desired text color -->
+    </style>
+</resources>

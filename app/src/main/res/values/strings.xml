@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="add_expenses">Add expenses</string>
+    <string name="dollarsign">$</string>
+    <string name="myr">myr</string>
+    <string name="emf">Expenses made for</string>
+    <string name="category_icon">Category Icon</string>
+    <string name="icons">Icons</string>
+    <string name="add_balance">Add Income</string>
+    <string name="bcf">Income came from</string>
+
+    <string-array name="expense_categories">
+        <item>Food</item>
+        <item>Travel</item>
+        <item>Entertainment</item>
+        <item>Shopping</item>
+        <item>Utilities</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="balance_categories">
+        <item>Salary</item>
+        <item>Savings</item>
+        <item>Bonus</item>
+        <item>Other</item>
+    </string-array>
+
+</resources>

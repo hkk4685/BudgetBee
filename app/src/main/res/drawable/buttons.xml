@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#2196F3" /> <!-- Set your preferred blue color here -->
+    <corners android:radius="18dp" /> <!-- Adjust the radius for the rounded effect -->
+    <padding
+        android:top="8dp"
+        android:bottom="8dp"
+        android:left="16dp"
+        android:right="16dp"/>
+    <elevation android:elevation="4dp"/> <!-- Shadow effect, if needed -->
+</shape>
